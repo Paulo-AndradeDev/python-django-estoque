@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-eg!ysea(=c+0dzh1qgd1c$&lxj=zy($v6i^*hp+e$indwm&j^d
 # this secret key is for encrypt. that is our private key.
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True  # true == development env.
+DEBUG = False  # true == development env.
 
 ALLOWED_HOSTS = ['*']
 # this param should be set once debug is false I mean once the app is up and run on production.

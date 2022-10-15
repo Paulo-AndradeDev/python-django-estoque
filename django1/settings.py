@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-eg!ysea(=c+0dzh1qgd1c$&lxj=zy($v6i^*hp+e$indwm&j^d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False  # true == development env.
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = [' devpauloandrade.pythonanywhere.com']
 # this param should be set once debug is false I mean once the app is up and run on production.
 
 # Application definition
